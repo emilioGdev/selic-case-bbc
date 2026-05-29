@@ -1,0 +1,12 @@
+# Dados locais (Data Lake simulado)
+data/
+
+# Logs e arquivos do Airflow
+logs/
+plugins/
+config/
+.env
+
+# Python
+__pycache__/
+*.pyc
